@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: -AWS Certified DevOps Engineer-Professional
-      -Research Assistant&Teaching Assistant
+role: "Always Young, Always Passionate"
 
 # Organizations/Affiliations
 #organizations:
