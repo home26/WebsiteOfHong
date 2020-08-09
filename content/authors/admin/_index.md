@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: AWS Certified DevOps Engineer - Professional | Research Assistant & Teaching Assistant at McMaster University
 
 # Organizations/Affiliations
 organizations:
