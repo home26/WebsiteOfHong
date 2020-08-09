@@ -6,22 +6,22 @@
 [[main]]
   name = "Hi!"
   url = "#about"
-  weight = 70
+  weight = 10
 
 [[main]]
   name = "Skills"
   url = "#skills"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 10
+  weight = 30
 
 [[main]]
   name = "News"
   url = "#featured"
-  weight = 10
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
