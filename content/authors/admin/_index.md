@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: AWS Certified DevOps Engineer - Professional | Research Assistant & Teaching Assistant
+role: AWS Certified DevOps Engineer - Professional
+Research Assistant & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
