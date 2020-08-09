@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: AWS Certified DevOps Engineer - Professional | Research Assistant & Teaching Assistant at McMaster University
+role: AWS Certified DevOps Engineer - Professional | Research Assistant & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: McMaster University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
