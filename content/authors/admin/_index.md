@@ -14,9 +14,9 @@ role: -AWS Certified DevOps Engineer-Professional
       -Research Assistant&Teaching Assistant
 
 # Organizations/Affiliations
-organizations:
-- name: McMaster University
-  url: ""
+#organizations:
+#- name: McMaster University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
