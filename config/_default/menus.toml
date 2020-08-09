@@ -14,13 +14,13 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "News"
+  url = "#accomplishments"
   weight = 30
 
 [[main]]
-  name = "News"
-  url = "#accomplishments"
+  name = "Projects"
+  url = "#projects"
   weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
