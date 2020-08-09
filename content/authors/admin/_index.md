@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Always Young, Always Passionate"
+role: Always Young, Always Passionate
 
 # Organizations/Affiliations
 #organizations:
