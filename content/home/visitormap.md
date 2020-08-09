@@ -5,5 +5,5 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear in.
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["80px", "0", "80px", "0"]
+  padding = ["200px", "0", "200px", "0"]
 +++
