@@ -21,9 +21,9 @@ role: Always Young, Always Passionate
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Development
+- Cloud Engineering
+- AI&Machine Learning
 
 education:
   courses:
