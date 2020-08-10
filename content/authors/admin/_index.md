@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Software Development
 - Cloud Engineering
-- AI&Machine Learning
+- AI & Machine Learning
 
 education:
   courses:
