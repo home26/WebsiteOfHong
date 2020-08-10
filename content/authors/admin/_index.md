@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! Welcome to my home!:wink: I’m a Master student at McMaster University. My interests include software development, cloud engineering and artificial intelligence. I’m qualified to work in these three fields. (For details of my experience, please see projects section)  I believe I’m an excellent candidate for job positions in the above fields.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m also passionate about life. Workout, photography, travelling, history are my hobbies. I hope I can be a man who brings happiness and joy to people around me.  Life is mixed with happiness and sadness, however, just always encourage myself to smile everyday, keep optimistic everyday.:grinning: :grinning: 
