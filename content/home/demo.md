@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
 
-title = "Demos"
+title = ""
 subtitle = ""
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=0YPceI_e7pW2iFY36MecD3kZ_sLPEv0iUMA41KCRmoY&cl=ffffff&w=a"></script>
