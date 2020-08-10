@@ -49,6 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6a89b8&w=557&t=tt&d=Wh7DYE7MTHoiL9ACrqijcssMiAnLiv4DreLPn3BPpcs&co=ffffff&cmo=f73c23&cmn=e3db1b'></script>
-</p>
