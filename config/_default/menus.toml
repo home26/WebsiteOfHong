@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Skills"
-  url = "#tags"
+  url = "#wordcloud"
   weight = 20
   
 [[main]]
