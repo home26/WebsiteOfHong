@@ -11,9 +11,7 @@ weight = 200  # Order that this section will appear.
 title = "Demos"
 subtitle = ""
 
-{{< myshortcode >}}<p>Hello <strong>World!</strong></p>{{< /myshortcode >}}
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=0YPceI_e7pW2iFY36MecD3kZ_sLPEv0iUMA41KCRmoY&cl=ffffff&w=a"></script>
+{{< myshortcode >}}<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=0YPceI_e7pW2iFY36MecD3kZ_sLPEv0iUMA41KCRmoY&cl=ffffff&w=a"></script>{{< /myshortcode >}}
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
