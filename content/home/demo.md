@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 <p>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=0YPceI_e7pW2iFY36MecD3kZ_sLPEv0iUMA41KCRmoY&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6a89b8&w=222&t=tt&d=Wh7DYE7MTHoiL9ACrqijcssMiAnLiv4DreLPn3BPpcs&co=ffffff&cmo=f73c23&cmn=4cc742'></script>
 </p>
