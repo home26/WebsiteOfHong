@@ -48,10 +48,10 @@ social:
   link: 'mailto:jeffery3206@gmail.com'
 - icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://ca.linkedin.com/in/hong-li-jeffery-lee-2a56301a3
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/home26
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
