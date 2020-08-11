@@ -44,8 +44,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div>
-<ul float:right>
+<div margin-left:auto; margin-right:0;>
+<ul>
 <li>-----------------------------Master's Period-----------------------------</li>
 <li>----------------------------Bachelor's Period----------------------------</li>
 </ul>
