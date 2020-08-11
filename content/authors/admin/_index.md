@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: M.A.Sc. in Electrical and Computer Engineering
-    institution: Mcmaster University
+    institution: Mcmaster University,Canada
     year: 2019-2021
   - course: B.Eng. in IoT(Internet of Things) Engineering
-    institution: Chongqing University of Posts and Telecommunications
+    institution: Chongqing University of Posts and Telecommunications,China
     year: 2015-2019
 
 # Social/Academic Networking
