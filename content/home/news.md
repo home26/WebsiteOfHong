@@ -44,6 +44,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div>
+<div margin-left:auto; margin-right:0;>
 <p>-----------------------------McMaster University-------------------------</p>
 </div>
