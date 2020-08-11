@@ -11,7 +11,6 @@ weight = 50  # Order that this section will appear.
 title = "News"
 subtitle = ""
 
-[lists]
 * First item
 * Another item
 
