@@ -44,4 +44,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<div>
 <p>-----------------------------McMaster University-------------------------</p>
+</div>
