@@ -43,10 +43,12 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
-<div margin-left:auto; margin-right:0;>
+ 
+<div>
 <ul>
 <li>-----------------------------Master's Period-----------------------------</li>
 <li>----------------------------Bachelor's Period----------------------------</li>
 </ul>
 </div>
++++
+
