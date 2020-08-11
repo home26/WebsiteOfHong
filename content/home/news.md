@@ -45,8 +45,8 @@ subtitle = ""
  css_class = ""
 +++
 <div>
-<ul>
-<li align="right">-----------------------------Master's Period-----------------------------</li>
-<li align="right">----------------------------Bachelor's Period----------------------------</li>
+<ul float:right>
+<li>-----------------------------Master's Period-----------------------------</li>
+<li>----------------------------Bachelor's Period----------------------------</li>
 </ul>
 </div>
