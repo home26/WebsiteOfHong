@@ -45,5 +45,5 @@ subtitle = ""
  css_class = ""
 +++
 <div>
-<p margin-left:auto; margin-right:0;>-----------------------------McMaster University-------------------------</p>
+<p align="right">-----------------------------McMaster University-------------------------</p>
 </div>
