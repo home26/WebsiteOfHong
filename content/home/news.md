@@ -11,12 +11,13 @@ weight = 50  # Order that this section will appear.
 title = "News"
 subtitle = ""
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
 [lists]
 * First item
 * Another item
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
