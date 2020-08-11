@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hong Li(AWS Certified DevOps Engineer-Professional)
+title: Hong Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Always Young, Always Passionate
+role: AWS Certified DevOps Engineer-Professional
 
 # Organizations/Affiliations
 #organizations:
