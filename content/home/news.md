@@ -50,3 +50,4 @@ subtitle = ""
 * [2019/9]I was awarded Graduate Scholarship.
 * [2019/9]I was awarded Tuition Scholarship.
 * [2019/9]I was awarded Research Scholarship.
+* [2019/6]My undergraduate thesis _The Design of Vehicle Detection System Based on Multiobjective Detection Model_ won **Outstanding Undergraduate Thesis** prize.
