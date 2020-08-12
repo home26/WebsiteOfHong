@@ -45,5 +45,5 @@ subtitle = ""
  css_class = ""
 +++
 
-*I passed AWS Certified DevOps Engineer-Professional exam.
-*I passed AWS Certified SysOps Administrator-Associate exam.
+* I passed AWS Certified DevOps Engineer-Professional exam.
+* I passed AWS Certified SysOps Administrator-Associate exam.
