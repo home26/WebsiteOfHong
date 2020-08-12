@@ -51,6 +51,7 @@ subtitle = ""
 * [2019/9]I was awarded Tuition Scholarship.
 * [2019/9]I was awarded Research Scholarship.
 * [2019/6]My undergraduate thesis _The Design of Vehicle Detection System Based on Multiobjective Detection Model_ won **Outstanding Undergraduate Thesis** prize.
+* [2018/8]I won Third Award in _National College Students' Connected Smartest System Innovation Competition_ held by _Chinese Institute of Electronics_
 * [2018/6]I won _Undergraduate Science and Technology Innovation Scholarship_.
 * [2018/4]Our team was designated as [Honorable Mention](https://drive.google.com/file/d/12XmdMvFeUBsa4IwbUeeGCrdChDyuKE5i/view?usp=sharing) in [Mathematical Contest in Modeling](https://www.comap.com/undergraduate/contests/mcm/).
 * [2016-2018]I won _Undergraduate Academic Scholarship_ for three consecutive years.
