@@ -46,3 +46,4 @@ subtitle = ""
 +++
 
 *I passed AWS Certified DevOps Engineer-Professional exam.
+*I passed AWS Certified SysOps Administrator-Associate exam.
