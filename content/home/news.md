@@ -48,5 +48,5 @@ subtitle = ""
 * [2020/8/7]I passed [AWS Certified DevOps Engineer-Professional](https://drive.google.com/file/d/10X47OFCgxO3lwiWlKHo6JMB8AkLTkiCi/view?usp=sharing) exam.
 * [2020/6/30]I passed [AWS Certified SysOps Administrator-Associate](https://drive.google.com/file/d/1jzZC62AZZhM_6AoLbo-GSKHJje6jEulk/view?usp=sharing) exam.
 * [2019/9]I was awarded Graduate Scholarship.
-* [2019/9]I was awarded tuition scholarship.
+* [2019/9]I was awarded Tuition Scholarship.
 * [2019/9]I was awarded Research Scholarship.
