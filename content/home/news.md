@@ -51,4 +51,4 @@ subtitle = ""
 * [2019/9]I was awarded Tuition Scholarship.
 * [2019/9]I was awarded Research Scholarship.
 * [2019/6]My undergraduate thesis _The Design of Vehicle Detection System Based on Multiobjective Detection Model_ won **Outstanding Undergraduate Thesis** prize.
-* [2018/4]Our team was designated as _Honorable Mention_ in [Mathematical Contest in Modeling](https://www.comap.com/undergraduate/contests/mcm/).
+* [2018/4]Our team was designated as [Honorable Mention](https://drive.google.com/file/d/12XmdMvFeUBsa4IwbUeeGCrdChDyuKE5i/view?usp=sharing) in [Mathematical Contest in Modeling](https://www.comap.com/undergraduate/contests/mcm/).
