@@ -67,4 +67,4 @@ user_groups:
 
 Hi! Welcome to my home!:wink: I’m a Master student at McMaster University. My interests include software development, cloud engineering and artificial intelligence. I’m qualified to work in these three fields. (For details of my experience, please see projects section)  I believe I’m an excellent candidate for job positions in the above fields.
 
-I’m also an interesting person and passionate about life. Workout, photography and travelling are my hobbies. I hope I can be a man who brings happiness and joy to people around me. Life is not always satisfying as you expect but mixed with happiness and sadness, however, just always encourage myself to smile everyday, keep optimistic everyday.:grinning: :grinning: 
+I’m also an interesting person and passionate about life. Workout, photography and travelling are my hobbies. I hope I can be a man who brings happiness and joy to people around me. Life is not as satisfying as you expect all the time but mixed with happiness and sadness, however, just always encourage myself to smile everyday, keep optimistic everyday.:grinning: :grinning: 
