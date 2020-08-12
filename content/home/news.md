@@ -45,4 +45,4 @@ subtitle = ""
  css_class = ""
 +++
 
-*[2020/8/7]I passed AWS Certified DevOps Engineer-Professional exam.
+*I passed AWS Certified DevOps Engineer-Professional exam.
