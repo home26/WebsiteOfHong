@@ -47,9 +47,9 @@ subtitle = ""
 
 * [2020/8]I passed [AWS Certified DevOps Engineer-Professional](https://drive.google.com/file/d/10X47OFCgxO3lwiWlKHo6JMB8AkLTkiCi/view?usp=sharing) exam.
 * [2020/6]I passed [AWS Certified SysOps Administrator-Associate](https://drive.google.com/file/d/1jzZC62AZZhM_6AoLbo-GSKHJje6jEulk/view?usp=sharing) exam.
-* [2019/9]I was awarded Graduate Scholarship.
-* [2019/9]I was awarded Tuition Scholarship.
-* [2019/9]I was awarded Research Scholarship.
+* [2019/9]I was awarded _Graduate Scholarship_.
+* [2019/9]I was awarded _Tuition Scholarship_.
+* [2019/9]I was awarded _Research Scholarship_.
 * [2019/6]Undergraduate thesis _The Design of Vehicle Detection System Based on Multiobjective Detection Model_ won _Outstanding Undergraduate Thesis_ prize.
 * [2018/8]I won third award in _National College Students' Connected Smartest System Innovation Competition_ held by _Chinese Institute of Electronics_
 * [2018/6]I won _Undergraduate Science and Technology Innovation Scholarship_.
