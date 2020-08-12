@@ -45,15 +45,4 @@ subtitle = ""
  css_class = ""
 +++
 
-* First item First itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst item
-* Another item Another itemAnother itemAnother itemAnother itemAnother itemAnother itemAnothe
-* First item First itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst item
-* Another item Another itemAnother itemAnother itemAnother itemAnother itemAnother itemAnothe
-* First item First itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst item
-* Another item Another itemAnother itemAnother itemAnother itemAnother itemAnother itemAnothe
-* First item First itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst item
-* Another item Another itemAnother itemAnother itemAnother itemAnother itemAnother itemAnothe
-* First item First itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst item
-* Another item Another itemAnother itemAnother itemAnother itemAnother itemAnother itemAnothe
-* First item First itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst itemFirst item
-* Another item Another itemAnother itemAnother itemAnother itemAnother itemAnother itemAnothe
+*[2020/8/7]I passed AWS Certified DevOps Engineer-Professional exam.
