@@ -44,10 +44,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Hong's Top Three Hobbies
+## My Top Three Hobbies
 #### Workout
-test test test test test test test test test test test test test test test test test test test test test test test test
-test test test test test test test test test test test test test test test test test test test test test test test test
+I started to work out since 2016. That is really a good way to relax and get rid of stree. Meanwhile, it keeps me healthy. If you also enjoy sports like workout, soccer, swimming and hiking, etc. You are super welcome to join me. :smile::smile:
 _________________________________________________________
-{{< figure src="workout1.jpg" title="A caption" >}}
+{{< figure src="workout1.jpg" title="No Pain, No Gain" >}}
 _________________________________________________________
