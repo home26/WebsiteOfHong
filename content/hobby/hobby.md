@@ -56,4 +56,4 @@ _________________________________________________________
 {{< figure src="photography1.jpg" title="Cuba trip" >}}
 _________________________________________________________
 
-[Back To Home](excellenthong.ca)
+[:arrow_left:Back To Home](https://www.excellenthong.ca)
