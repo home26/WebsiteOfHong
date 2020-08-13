@@ -58,3 +58,15 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+#### Workout
+I started to work out since 2016. That is really a good way to relax and get rid of stress. Meanwhile, it keeps me healthy. If you also enjoy sports like workout, soccer, swimming and hiking, etc. You are super welcome to join me. :smile::smile:
+{{< figure src="workout1.jpg" title="No Pain, No Gain" >}}
+_________________________________________________________
+#### Photography
+Photography is an art to see the world in a different view. I got my first camera when I was in high school. Since then, I enjoy taking photos using my camera or cell phone. That is really a good feeling to see the world through camera. The following pictures were taken by me in Cuba. Hope you like it. :wink:
+{{< figure src="photography1.jpg" title="Cuba trip" >}}
+_________________________________________________________
+#### Travelling
+As Chinese saying goes:"It is better to travel ten thousand miles than to read ten thousand books"(读万卷书，不如行万里路). Travelling can broaden our horizon. Not only does a learner learn from books, but also learn on the road. So travelling is one of the best options to spend my spare time. I have teavelled to many cties in different countries and I'm still on the road. Actually, I hope I can take a road trip driving through the North America after graduation next year. That will be an exciting trip!
+{{< figure src="travelling1.jpg" title="North America road trip" >}}
+_________________________________________________________
