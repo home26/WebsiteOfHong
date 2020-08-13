@@ -46,7 +46,7 @@ subtitle = ""
 +++
 ## My Top Three Hobbies
 #### Workout
-I started to work out since 2016. That is really a good way to relax and get rid of stree. Meanwhile, it keeps me healthy. If you also enjoy sports like workout, soccer, swimming and hiking, etc. You are super welcome to join me. :smile::smile:
+I started to work out since 2016. That is really a good way to relax and get rid of stress. Meanwhile, it keeps me healthy. If you also enjoy sports like workout, soccer, swimming and hiking, etc. You are super welcome to join me. :smile::smile:
 _________________________________________________________
 {{< figure src="workout1.jpg" title="No Pain, No Gain" >}}
 _________________________________________________________
