@@ -45,10 +45,10 @@ social:
   link: 'mailto:jeffery3206@gmail.com'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.facebook.com/profile.php?id=100014060613346&viewas=100000686899395
+  link: https://ca.linkedin.com/in/hong-li-jeffery-lee-2a56301a3
 - icon: facebook
   icon_pack: fab
-  link: https://ca.linkedin.com/in/hong-li-jeffery-lee-2a56301a3
+  link: https://www.facebook.com/profile.php?id=100014060613346&viewas=100000686899395
 - icon: github
   icon_pack: fab
   link: https://github.com/home26
