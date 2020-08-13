@@ -1,7 +1,5 @@
 ---
 title: "My Top Three Hobbies"
-authors:
-- ""
 date: "2020-08-13T00:00:00Z"
 doi: ""
 
