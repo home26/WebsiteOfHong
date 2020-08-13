@@ -46,6 +46,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://ca.linkedin.com/in/hong-li-jeffery-lee-2a56301a3
+- icon: facebook
+  icon_pack: fab
+  link: https://ca.linkedin.com/in/hong-li-jeffery-lee-2a56301a3
 - icon: github
   icon_pack: fab
   link: https://github.com/home26
