@@ -25,8 +25,8 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: Custom Link
+#links:
+#- name: Custom Link
   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: '#'
