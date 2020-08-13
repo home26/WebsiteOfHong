@@ -49,3 +49,5 @@ subtitle = ""
 test test test test test test test test test test test test test test test test test test test test test test test test
 test test test test test test test test test test test test test test test test test test test test test test test test
 _________________________________________________________
+{{< figure src="workout1.jpg" title="A caption" >}}
+_________________________________________________________
