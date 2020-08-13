@@ -47,6 +47,7 @@ subtitle = ""
 
 * [2020/8]I passed [AWS Certified DevOps Engineer-Professional](https://drive.google.com/file/d/10X47OFCgxO3lwiWlKHo6JMB8AkLTkiCi/view?usp=sharing) exam.
 * [2020/6]I passed [AWS Certified SysOps Administrator-Associate](https://drive.google.com/file/d/1jzZC62AZZhM_6AoLbo-GSKHJje6jEulk/view?usp=sharing) exam.
+* [2020/6]I started to work on my Master's thesis _Formation Flight Of Coordinated Swarms Of Drones In Urban Environments For Ground Target Tracking_
 * [2019/9]I was awarded _Graduate Scholarship_.
 * [2019/9]I was awarded _Tuition Scholarship_.
 * [2019/9]I was awarded _Research Scholarship_.
