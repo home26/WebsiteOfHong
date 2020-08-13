@@ -35,7 +35,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "160px", "0px", "160px"]
+  padding = ["50px", "0px", "0px", "0px"]
 
 [advanced]
  # Custom CSS. 
