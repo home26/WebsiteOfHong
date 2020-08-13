@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "My Top Three Hobbies"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- ""
+date: "2020-08-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
