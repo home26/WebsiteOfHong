@@ -55,5 +55,7 @@ Photography is an art to see the world in a different view. I got my first camer
 _________________________________________________________
 {{< figure src="photography1.jpg" title="Cuba trip" >}}
 _________________________________________________________
-
+#### Travelling
+As Chinese saying goes:"It is better to travel ten thousand miles than to read ten thousand books".(读万卷书，不如行万里路) Travelling can broaden our horizon. Not only does a learner learn from books, but also learn on the road. So travelling is one of the best options to spend my spare time. I have teavelled to many cties in different countries and I'm still on the road. Actually, I hope I can take a road trip driving through the North America after graduation next year. That will be an exciting trip!
 [:arrow_left:BACK](https://www.excellenthong.ca)
+
