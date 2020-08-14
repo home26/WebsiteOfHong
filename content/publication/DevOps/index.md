@@ -20,9 +20,7 @@ publication_short: ""
 summary: 
 
 tags:
-- Source Themes
-- test
-- haha
+#- Source Themes
 featured: false
 
 links:
