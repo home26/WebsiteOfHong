@@ -32,3 +32,4 @@ slides: example
 ### Description
 It is a system which can monitor the real-time data of plants. The system structure can be illustrated in the following figure.
 {{< figure src="structure.png" title="System Structure" >}}
+The sensor nodes can collect data of plants, such as humidity, temperature and real-time photo. They can send the data to gateway by ZigBee protocol. The gateway can transfer the data to cloud server by Wi-Fi protocol. Users can view the visualized real-time data of plants in their mobile phone app remotely. Moreover, when the plants need water, this system can water the plants automatically.  
