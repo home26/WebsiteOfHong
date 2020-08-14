@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified DevOps Engineer-Professional"
+title: "The Mathematical Contest in Modeling"
 date: "2018-04-01T00:00:00Z"
 doi: ""
 
@@ -58,5 +58,5 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-{{< figure src="devops.jpg" title="AWS Certified DevOps Engineer-Professional Certification" >}}
+{{< figure src="mcm.jpg" title="The Mathematical Contest in Modeling" >}}
 _________________________________________________________
