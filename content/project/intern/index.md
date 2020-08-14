@@ -1,5 +1,5 @@
 ---
-title: Internship-China Mobile Company 
+title: Summer Internship-China At Mobile Company 
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
