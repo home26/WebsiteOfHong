@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified DevOps Engineer-Professional"
+title: "AWS Certified SysOps Administrator-Associate"
 date: "2020-06-30T00:00:00Z"
 doi: ""
 
