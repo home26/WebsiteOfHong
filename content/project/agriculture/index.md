@@ -1,5 +1,5 @@
 ---
-title: Agricultural Monitoring System Based On IoT
+title: Agricultural Monitoring System Based On Internet of Things(IoT)
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
