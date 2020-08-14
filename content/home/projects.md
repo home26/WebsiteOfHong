@@ -30,8 +30,8 @@ subtitle = ""
      tag = "UAV-Algorithm"
 
    [[content.filter_button]]
-     name = "SoftwarreDevelopment"
-     tag = "SoftwarreDevelopment"
+     name = "SoftwareDevelopment"
+     tag = "SoftwareDevelopment"
 
    [[content.filter_button]]
      name = "MachineLearning"
