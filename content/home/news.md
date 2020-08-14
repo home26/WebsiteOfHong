@@ -54,6 +54,6 @@ subtitle = ""
 * [2019/6]Undergraduate thesis _The Design of Vehicle Detection System Based on Multiobjective Detection Model_ won _Outstanding Undergraduate Thesis_ prize.
 * [2018/8]I won third award in _National College Students' Connected Smartest System Innovation Competition_ held by _Chinese Institute of Electronics_
 * [2018/6]I won _Undergraduate Science and Technology Innovation Scholarship_.
-* [2018/4]Our team was designated as [Honorable Mention](https://drive.google.com/file/d/12XmdMvFeUBsa4IwbUeeGCrdChDyuKE5i/view?usp=sharing) in [Mathematical Contest in Modeling](https://www.comap.com/undergraduate/contests/mcm/).
+* [2018/4]Our team was designated as [Honorable Mention](https://excellenthong.ca/publication/MCM/) in [Mathematical Contest in Modeling](https://www.comap.com/undergraduate/contests/mcm/).
 * [2018/4]I won second prize for _China RoboWork Competition & International Open_ held by _Ministry of Education of The People's Republic of China_
 * [2016-2018]I won _Undergraduate Academic Scholarship_ for three consecutive years.
