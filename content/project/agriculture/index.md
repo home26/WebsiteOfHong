@@ -1,6 +1,6 @@
 ---
 title: Agricultural Monitoring System Based On Internet of Things(IoT)
-summary: test
+summary: Keyword:
 tags:
 - SoftwareDevelopment
 date: "2018-08-01T00:00:00Z"
