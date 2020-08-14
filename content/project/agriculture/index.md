@@ -30,3 +30,4 @@ links:
 slides: example
 ---
 ### Description
+It is a system which can monitor the real-time data of plants. The system structure can be illustrated in the following figure.
