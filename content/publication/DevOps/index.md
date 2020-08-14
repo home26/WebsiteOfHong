@@ -1,6 +1,6 @@
 ---
-title: "My Top Three Hobbies"
-date: "2020-08-13T00:00:00Z"
+title: "AWS Certified DevOps Engineer-Professional"
+date: "2020-08-7T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
