@@ -29,4 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-### My experience over there
+### My duty over there
+It is an summer internship program. I worked there from mid of July to August of 2018. My duty was to learn the deployment of IoT and Cloud solution and assist my mentor to deploy them.   
