@@ -58,3 +58,4 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+{{< figure src="devops.jpg" title="AWS Certified DevOps Engineer-Professional Certification" >}}
