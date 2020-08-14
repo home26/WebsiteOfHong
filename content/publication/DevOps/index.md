@@ -23,7 +23,7 @@ tags:
 - Source Themes
 - test
 - haha
-featured: true
+featured: false
 
 links:
 #- name:
