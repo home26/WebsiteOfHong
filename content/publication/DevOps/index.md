@@ -59,3 +59,5 @@ image:
 slides: example
 ---
 {{< figure src="devops.jpg" title="AWS Certified DevOps Engineer-Professional Certification" >}}
+_________________________________________________________
+Earners of this certification have an extensive understanding of implementing continuous delivery systems and methodologies on the AWS Cloud. They demonstrated the ability to automate resilient applications and infrastructure deployments using AWS services. Owners are able to enforce policies, implement automated monitoring, and configure event management of an environment.
