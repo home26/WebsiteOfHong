@@ -31,3 +31,4 @@ slides: example
 ---
 ### Description
 It is a platform simulating UAV flight based on AirSim. The structure can be illustrated in the following grapg.
+{{< figure src="structure.png" title="System Structure" >}}
