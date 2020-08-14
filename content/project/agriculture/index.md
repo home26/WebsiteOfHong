@@ -1,5 +1,5 @@
 ---
-title: Agricultural Monitoring System Based On Internet of Things(IoT)
+title: Plant Monitoring System Based On Internet of Things(IoT)
 summary: IoT, Cloud, Wireless Sensor Network
 tags:
 - SoftwareDevelopment
