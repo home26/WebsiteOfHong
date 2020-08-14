@@ -1,5 +1,5 @@
 ---
-title: Optimal Path Problem-Application of Dijkstra's Algorithm 
+title: Optimal Path Problem Based On Dijkstra's Algorithm 
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
