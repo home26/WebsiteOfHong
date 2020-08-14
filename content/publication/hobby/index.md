@@ -60,7 +60,7 @@ slides: example
 ---
 #### Workout
 I started to work out in 2016. That is really a good way to relax and get rid of stress. Meanwhile, it keeps me healthy. If you also enjoy sports like workout, soccer, swimming and hiking, etc. You are super welcome to join me. :smile::smile:
-{{< figure src="workout1.jpg" title="No Pain, No Gain" >}}
+{{< figure src="workout2.jpg" title="No Pain, No Gain" >}}
 _________________________________________________________
 #### Photography
 Photography is an art to see the world in a different view. I got my first camera when I was in high school. Since then, I enjoy taking photos using my camera or cell phone. That is really a good feeling to see the world through camera. The following pictures were taken by me in Cuba. Hope you like it. :wink:
