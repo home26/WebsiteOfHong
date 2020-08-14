@@ -58,6 +58,6 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-{{< figure src="devops.jpg" title="AWS Certified DevOps Engineer-Professional Certification" >}}
+{{< figure src="sysops.jpg" title="AWS Certified SysOps Administrator–Associate Certification" >}}
 _________________________________________________________
 Earners of this certification have a comprehensive understanding on how to deploy, manage, and operate IT systems on the AWS Cloud. They demonstrated the ability to migrate on-premises workloads to AWS and monitor, scale, and secure systems on the AWS platform. Owners are able to provide guidance on implementing best practices for cloud operations.
