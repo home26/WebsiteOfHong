@@ -1,9 +1,9 @@
 ---
 title: Agricultural Monitoring System Based On Internet of Things(IoT)
-summary: An example of using the in-built project page.
+summary: Keyword: #Cloud, #IoT, #Wireless Sensor Network
 tags:
 - SoftwareDevelopment
-date: "2016-04-27T00:00:00Z"
+date: "2018-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
