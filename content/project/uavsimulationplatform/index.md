@@ -39,3 +39,5 @@ _________________________________________________________
 _________________________________________________________
 {{< figure src="trajectory.jpg" title="UAV Trajectory" >}}
 _________________________________________________________
+### My Contribution
+I was responsible to develop the simulation platform based on AirSim including the QT GUI, communication with MATLAB.
