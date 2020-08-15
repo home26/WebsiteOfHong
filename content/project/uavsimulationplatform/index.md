@@ -40,4 +40,4 @@ _________________________________________________________
 {{< figure src="trajectory.jpg" title="UAV Trajectory" >}}
 _________________________________________________________
 ### My Contribution
-I was responsible to develop the simulation platform based on AirSim including the QT GUI, communication with MATLAB.
+I was responsible to develop the simulation platform based on AirSim including QT GUI, communication with MATLAB. C++ language was mainly used in this project.
