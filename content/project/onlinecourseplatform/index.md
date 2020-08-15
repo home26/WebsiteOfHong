@@ -31,3 +31,7 @@ slides: example
 ---
 ### Description
 It is a B/S(Browser/Server)project which is just for learning and person interest. You can watch online courses in this project. The structure of this project can be illustrated as the following graph.
+{{< figure src="structure.png" title="System Structure" >}}
+I adapted Vue.js as the front-end framework, Spring Boot as the back-end framework, AWS as the cloud platform and MySQL as database, respectively.
+### My Contribution
+It is a project for fun and learning, I was respnsible to deveop this project. Java was mainly used in this project.
