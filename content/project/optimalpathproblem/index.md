@@ -34,4 +34,4 @@ This is a course project of ECE710(Engineering Optimization). We assume that the
 itself meaning the armed UAV can also attack the missile system. Plase see the illustration figure below.
 {{< figure src="structure.png" title="System Structure" >}}
 ### My Contribution
-In this project, I built mathematical model and designed algorithm based on Dijkstra's Algorithm to generate the optimal deaprture and return paths for the armed UAV to finish tasks with minimal damage. MTALAB was mainly used in this project.
+In this project, I built mathematical model and designed algorithm based on Dijkstra's Algorithm to generate the optimal departure and return paths for the armed UAV to finish tasks with minimal damage. MTALAB was mainly used in this project.
