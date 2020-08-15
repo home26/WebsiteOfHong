@@ -37,3 +37,5 @@ The simulation and control panel are shown in the following picture.
 _________________________________________________________
 {{< figure src="uav.jpg" title="UAV Simulation" >}}
 _________________________________________________________
+{{< figure src="trajectory.jpg" title="UAV Trajectory" >}}
+_________________________________________________________
