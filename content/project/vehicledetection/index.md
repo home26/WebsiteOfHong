@@ -29,3 +29,6 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+### Description
+This is my undergraduate's thesis project. The project structure can be illustrated as the following figure.
+{{< figure src="structure.png" title="System Structure" >}}
