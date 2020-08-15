@@ -31,4 +31,4 @@ slides: example
 ---
 These two Android apps were developed by me just for fun and personal interest.
 ### KillDiglett
-The icon is as below
+It is a simple but interesting Android game. The icon is as below
