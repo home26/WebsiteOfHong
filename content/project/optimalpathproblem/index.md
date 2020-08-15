@@ -32,5 +32,6 @@ slides: example
 ### Description
 This is a course project of ECE710(Engineering Optimization). We assume that there is a rectangular military area whose length is 50km and width is 40km, respectively. An armed UAV was dispatched to carry the necessary supply from the base whose position is (0,0) to the frontier whose position is (50,40). After that, the armed UAV flies back to the base. The armed UAV means the UAV can attack and damage the barrier(missile system) during the trip to the frontier. In this military area, 10 ground-to-air missile systems set by the enemy can attack the UAV which is within the effective attacking distance which is 4KM. In this scenario, the armed UAV can be damaged by the missile system and defence
 itself meaning the armed UAV can also attack the missile system. Plase see the illustration figure below.
-
+{{< figure src="structure.png" title="System Structure" >}}
 ### My Contribution
+In this project, I built mathematical model and designed algorithm based on Dijkstra's Algorithm to generate the optimal deaprture and return paths for the armed UAV to finish tasks with minimal damage. MTALAB was mainly used in this project.
