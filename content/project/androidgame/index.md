@@ -32,3 +32,17 @@ slides: example
 These two Android apps were developed by me just for fun and personal interest.
 ### KillDiglett
 It is a simple but interesting Android game. The icon is as below
+_________________________________________________________
+{{< figure src="icon.jpg" title="Icon" >}}
+_________________________________________________________
+The Rule of game is as below.
+_________________________________________________________
+{{< figure src="rule.jpg" title="Rule" >}}
+_________________________________________________________
+The followings are some interfaces of this game
+_________________________________________________________
+{{< figure src="interface1.jpg" title="Interface" >}}
+{{< figure src="interface2.jpg" title="Interface" >}}
+{{< figure src="interface3.jpg" title="Interface" >}}
+{{< figure src="interface4.jpg" title="Interface" >}}
+_________________________________________________________
