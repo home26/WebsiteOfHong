@@ -1,6 +1,6 @@
 ---
 title: UAV Formation Flight In Urban Environment 
-summary: C++, Path Planning, UAV Coordinated Control
+summary: C++, Optimal Path Planning, UAV Coordinated Control
 tags:
 - UAV-Algorithm
 date: "2020-08-14T00:00:00Z"
