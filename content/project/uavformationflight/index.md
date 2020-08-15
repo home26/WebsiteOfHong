@@ -30,4 +30,7 @@ links:
 slides: example
 ---
 ### Description
+This is my Master's thesis project. In order to understand this topic well. We illustrate it in the following picture.
+
+
 ### My Contribution
