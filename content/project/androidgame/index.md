@@ -46,3 +46,13 @@ _________________________________________________________
 {{< figure src="interface3.jpg" title="Interface" >}}
 {{< figure src="interface4.jpg" title="Interface" >}}
 _________________________________________________________
+### TodayNews
+This is an new app, users can obtain the latest news with various categories including society, entertainment, sports, military and tech, tec.
+The following is icon
+_________________________________________________________
+{{< figure src="newsicon.jpg" title="Icon" >}}
+_________________________________________________________
+The following is interface
+_________________________________________________________
+{{< figure src="newsinterface.jpg" title="Interface" >}}
+_________________________________________________________
