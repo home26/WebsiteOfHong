@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 ### My duty over there
-It is an summer internship program. I worked there from the mid of July to the end of August of 2018. My duty was to learn the deployment of IoT and Cloud solutions and assist my mentor to deploy them.
+It is a summer internship program. I worked there from the mid of July to the end of August of 2018. My duty was to learn the deployment of IoT and Cloud solutions and assist my mentor to deploy them.
