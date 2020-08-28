@@ -1,5 +1,5 @@
 ---
----title: UAV Simulation Platform
+title: UAV Simulation Platform
 summary: C++, QT, UDP, AirSim
 tags:
 - SoftwareDevelopment
@@ -12,7 +12,7 @@ image:
   caption: 
   focal_point: Smart
 
-links:
+-links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
