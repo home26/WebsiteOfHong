@@ -1,9 +1,4 @@
 ---
-title: UAV Simulation Platform
-summary: C++, QT, UDP, AirSim
-tags:
-- SoftwareDevelopment
-date: "2020-04-01T00:00:00Z"
 
 ---
 ### Description
