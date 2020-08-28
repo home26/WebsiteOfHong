@@ -26,10 +26,6 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "UAV-Algorithm"
-     tag = "UAV-Algorithm"
-
-   [[content.filter_button]]
      name = "SoftwareDevelopment"
      tag = "SoftwareDevelopment"
 
