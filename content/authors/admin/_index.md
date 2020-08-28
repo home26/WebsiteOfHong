@@ -23,7 +23,6 @@ bio:
 interests:
 - Software Development
 - Cloud Engineering
-- UAV Formation Flight Control Theory
 - Machine Learning
 
 education:
@@ -69,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! Welcome to my home!:wink: I’m a Master student at McMaster University. My interests include software development, cloud engineering, UAV formation flight control theory and machine learning. I have been gaining experience in these fields. (_I would appreciate if you could visit **Projects** section for details of my experience_ :blush:) I believe I’m an excellent candidate for job positions related to them. However, I must recognize there is still lots of stuff I need to learn. I have been telling myself that never stop learning and being a lifelong learner is really cool.:open_book::books:
+Hi! Welcome to my home!:wink: I’m a Master student at McMaster University. My interests include software development, cloud engineering and machine learning. I have been gaining experience in these fields. (_I would appreciate if you could visit **Projects** section for details of my experience_ :blush:) I believe I’m an excellent candidate for job positions related to them. However, I must recognize there is still lots of stuff I need to learn. I have been telling myself that never stop learning and being a lifelong learner is really cool.:open_book::books:
 
 Moreover, I’m an interesting person and passionate about life. [Workout, photography and travelling](https://excellenthong.ca/publication/hobby/) are my top three hobbies. I hope I can be a man who brings happiness and joy to people around me. Life is not as satisfying as you expect all the time but mixed with happiness and sadness, however, just always encourage myself to smile everyday, keep optimistic everyday.:grinning: :grinning: 
