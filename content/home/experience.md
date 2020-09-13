@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Teaching & Research Assistant"
+  company = "McMaster University"
+  company_url = "https://www.mcmaster.ca/"
+  location = "Hamilton, Canada"
+  date_start = "2019-09"
+  date_end = "Present"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Assisted supervisor to carry out research and implement algorithms
+  * Led tutorials, marked assignments, held office hours, answered emails and invigilated exams for computer engineering course
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Cloud & IoT Solution Intern"
+  company = "China Mobile"
+  company_url = "https://www.chinamobileltd.com/en/global/home.php"
+  location = "Fujian, China"
+  date_start = "2018-07"
+  date_end = "2018-08"
   description = """Taught electronic engineering and researched semiconductor physics."""
-
+  Responsibilities include:
+  
+  * Assisted mentor to design and deploy Cloud & IoT based solutions
+  * Followed up and improved deployed Cloud & IoT based solutions
 +++
