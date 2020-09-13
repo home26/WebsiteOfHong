@@ -33,10 +33,6 @@ subtitle = ""
      name = "MachineLearning"
      tag = "MachineLearning"
 
-   [[content.filter_button]]
-     name = "Internship"
-     tag = "Internship"
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
