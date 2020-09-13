@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "McMaster University"
   company_url = "https://www.mcmaster.ca/"
   location = "Hamilton, Canada"
-  date_start = "2019-09"
+  date_start = "2019-09-03"
   date_end = ""
   description = """
   Responsibilities include:
