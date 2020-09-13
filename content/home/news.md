@@ -45,14 +45,15 @@ subtitle = ""
  css_class = ""
 +++
 
-* [2020/8]I passed [AWS Certified DevOps Engineer-Professional](https://excellenthong.ca/publication/DevOps/) exam.
-* [2020/6]I passed [AWS Certified SysOps Administrator-Associate](https://excellenthong.ca/publication/SysOps/) exam.
-* [2019/9]I was awarded _Graduate Scholarship_.
-* [2019/9]I was awarded _Tuition Scholarship_.
-* [2019/9]I was awarded _Research Scholarship_.
+* [2020/8]Passed [AWS Certified DevOps Engineer-Professional](https://excellenthong.ca/publication/DevOps/) exam.
+* [2020/6]Passed [AWS Certified SysOps Administrator-Associate](https://excellenthong.ca/publication/SysOps/) exam.
+* [2019/9]Awarded _Graduate Scholarship_.
+* [2019/9]Awarded _Tuition Scholarship_.
+* [2019/9]Awarded _Research Scholarship_.
 * [2019/6]Undergraduate thesis _The Design of Vehicle Detection System Based on Multiobjective Detection Model_ won _Outstanding Undergraduate Thesis_ prize.
-* [2018/8]I won third award in _National College Students' Connected Smartest System Innovation Competition_ held by _Chinese Institute of Electronics_
-* [2018/6]I won _Undergraduate Science and Technology Innovation Scholarship_.
+* [2018/8]Awarded _The Outstanding Intern Honour_ at China Mobile.
+* [2018/8]Won third award in _National College Students' Connected Smartest System Innovation Competition_ held by _Chinese Institute of Electronics_
+* [2018/6]Won _Undergraduate Science and Technology Innovation Scholarship_.
 * [2018/4]Our team was designated as [Honorable Mention](https://excellenthong.ca/publication/MCM/) in [Mathematical Contest in Modeling](https://www.comap.com/undergraduate/contests/mcm/).
-* [2018/4]I won second prize for _China RoboWork Competition & International Open_ held by _Ministry of Education of The People's Republic of China_
-* [2016-2018]I won _Undergraduate Academic Scholarship_ for three consecutive years.
+* [2018/4]Won second prize for _China RoboWork Competition & International Open_ held by _Ministry of Education of The People's Republic of China_
+* [2016-2018]Won _Undergraduate Academic Scholarship_ for three consecutive years.
