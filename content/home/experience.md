@@ -38,9 +38,10 @@ date_format = "Jan 2006"
   location = "Fujian, China"
   date_start = "2018-07"
   date_end = "2018-08"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught electronic engineering and researched semiconductor physics.
   Responsibilities include:
   
   * Assisted mentor to design and deploy Cloud & IoT based solutions
   * Followed up and improved deployed Cloud & IoT based solutions
+  """
 +++
