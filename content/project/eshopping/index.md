@@ -1,6 +1,6 @@
 ---
 title: e-Shopping Platform
-summary: IoT, Cloud, Wireless Sensor Network
+summary: Spring Boot, AWS, MySQL, MyBatis, Maven, RabbitMQ
 tags:
 - SoftwareDevelopment
 date: "2018-08-01T00:00:00Z"
