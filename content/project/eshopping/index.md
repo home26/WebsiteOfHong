@@ -30,9 +30,8 @@ links:
 slides: example
 ---
 ### Description
-It is a system which can monitor the real-time data of plants. The system structure can be illustrated in the following figure.
+It is a website where users can buy products and pay online. Alipay and WeChat pay interfaces can be called to pay the products. The system structure is as follow.
 {{< figure src="structure.png" title="System Structure" >}}
-The sensor nodes can collect data of plants, such as humidity, temperature and real-time photo. They can send the data to gateway by ZigBee protocol. The gateway can transfer the data to cloud server by Wi-Fi protocol. Users can view the visualized real-time data of plants in their mobile phone app remotely. Moreover, when the plants need water, this system can water the plants automatically.  
-I adapted OneNET cloud platform in this system. It is a cloud platform which can provide date storage and computing service for IoT product.
+Users can select products, place orders and pay online in e-shopping platform. The e-shopping platform can communicate with servers deployed in AWS. The servers can communicate with MySQL database deployed in AWS RDS. The entire project was deployed in AWS Cloud. It is a good exposure to AWS Cloud technology. Spring Boot, AWS, MySQL, MyBatis, Maven and RabbitMQ were used. 
 ### My Contribution
-I was responsible for designing, coordinating, developing and testing this system. C language was mainly used. This project won third award in National College Students’ Connected Smartest System Innovation Competition.
+This project is just for fun and personal interest. I was responsible for designing, developing and testing this system.
