@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jeffery3206@gmail.com
+  link: "mailto:jeffery3206@gmail.com"
 - icon: linkedin
   icon_pack: fab
   link: http://www.linkedin.com/in/hongli26
