@@ -56,13 +56,7 @@ window.onload=function ()
     
     positionAll();
   
-          var oEvent=window.event || ev;
-        
-        mouseX=oEvent.clientX-(oDiv.offsetLeft+oDiv.offsetWidth/2);
-        mouseY=oEvent.clientY-(oDiv.offsetTop+oDiv.offsetHeight/2);
-        
-        mouseX/=90;
-        mouseY/=90;
+    active=true;
   
     oDiv.onmouseover=function ()
     {
