@@ -56,8 +56,7 @@ window.onload=function ()
     
     positionAll();
 
-    window.οnlοad=function(){
-        active=true; 
+    $(document).ready(function(){ 
         var oEvent=window.event || ev;
         
         mouseX=oEvent.clientX-(oDiv.offsetLeft+oDiv.offsetWidth/2);
@@ -65,7 +64,7 @@ window.onload=function ()
         
         mouseX/=90;
         mouseY/=90;
-    }
+    });
   
     oDiv.onmouseover=function ()
     {
