@@ -1,5 +1,5 @@
 ---
-title: e-Shopping Platform
+title: HongMarket Online Shopping Website
 summary: Spring Boot, AWS, MySQL, MyBatis, Maven, RabbitMQ
 tags:
 - SoftwareDevelopment
