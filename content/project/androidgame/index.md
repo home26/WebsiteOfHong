@@ -56,3 +56,5 @@ The following is interface
 _________________________________________________________
 {{< figure src="newsinterface.jpg" title="Interface" >}}
 _________________________________________________________
+### Project link
+Github repo for KillDiglett: https://github.com/home26/AndroidApp-KillDiglett
