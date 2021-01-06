@@ -35,3 +35,6 @@ This is my undergraduate's thesis project. The project structure can be illustra
 The vehicle detection platform which is based on YOLO network can detect the vehicles in the picture or video. The detection result can be sent to AWS Cloud Platform. Users can use Android app to view the detection result remotely.
 ### My Contribution
 I was responsible to design and develop this system including YOLO network training, AWS Cloud Platform configuration and development of Android App. Java and Python were mainly used in this project. Finally, my thesis won _Outstanding Undergraduate Thesis_ prize.
+### Project links
+Github repo: https://github.com/home26/VehicleDetectionSystemBasedonMachineLearning <br/>
+Project video: https://youtu.be/tnUVOHQESy0
