@@ -37,3 +37,9 @@ The database architecture is as follow
 {{< figure src="DatabaseDesign.png" title="Database Architecture" >}}
 ### My Contribution
 This project is just for fun and personal interest. I was responsible for designing, developing and testing this system.
+### Project links
+Experience link: www.hongmarket.ca
+Front end repo: https://github.com/home26/hongmarket
+Back end repo: https://github.com/home26/hongmarketbackend
+Payment back end repo: https://github.com/home26/hongmarketpayment
+Document (architecture, APIs, database design, etc.) repo: https://github.com/home26/hongmarketdoc
