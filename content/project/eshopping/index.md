@@ -38,8 +38,8 @@ The database architecture is as follow
 ### My Contribution
 This project is just for fun and personal interest. I was responsible for designing, developing and testing this system.
 ### Project links
-Experience link: www.hongmarket.ca
-Front end repo: https://github.com/home26/hongmarket
-Back end repo: https://github.com/home26/hongmarketbackend
-Payment back end repo: https://github.com/home26/hongmarketpayment
+Experience link: www.hongmarket.ca <br/>
+Front end repo: https://github.com/home26/hongmarket <br/>
+Back end repo: https://github.com/home26/hongmarketbackend <br/>
+Payment back end repo: https://github.com/home26/hongmarketpayment <br/>
 Document (architecture, APIs, database design, etc.) repo: https://github.com/home26/hongmarketdoc
