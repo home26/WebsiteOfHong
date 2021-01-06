@@ -30,8 +30,10 @@ links:
 slides: example
 ---
 ### Description
-It is a website where users can buy products and pay online. Alipay and WeChat pay interfaces can be called to pay the products. The system structure is as follow.
-{{< figure src="structure.png" title="System Structure" >}}
+It is a website where users can buy products and pay online. Alipay and WeChat pay interfaces can be called to pay the products. The system architecture is as follow.
+{{< figure src="ArchitectureOfHongMarket.png" title="System Architecture" >}}
 Users can select products, place orders and pay online in e-shopping platform. The e-shopping platform can communicate with servers deployed in AWS. The servers can communicate with MySQL database deployed in AWS RDS. The entire project was deployed in AWS Cloud. It is a good exposure to AWS Cloud technology. Spring Boot, AWS, MySQL, MyBatis, Maven and RabbitMQ were used. 
+The database architecture is as follow
+{{< figure src="DatabaseDesign.png" title="Database Architecture" >}}
 ### My Contribution
 This project is just for fun and personal interest. I was responsible for designing, developing and testing this system.
