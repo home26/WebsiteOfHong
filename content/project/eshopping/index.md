@@ -36,7 +36,7 @@ Users can select products, place orders and pay online in e-shopping platform. T
 The database architecture is as follow
 {{< figure src="DatabaseDesign.png" title="Database Architecture" >}}
 ### My Contribution
-This project is just for fun and personal interest. I was responsible for designing, developing and testing this system.
+I was responsible for designing, developing and testing this system.
 ### Project links
 Experience link: www.hongmarket.ca <br/>
 Front end repo: https://github.com/home26/hongmarket <br/>
