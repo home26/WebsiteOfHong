@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching & Research Assistant"
+  title = "Research Assistant"
   company = "McMaster University"
   company_url = "https://www.mcmaster.ca/"
   location = "Hamilton, Canada"
@@ -28,6 +28,18 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Assisted supervisor to carry out research and implement algorithms
+  """
+  
+[[experience]]
+  title = "Teaching Assistant"
+  company = "McMaster University"
+  company_url = "https://www.mcmaster.ca/"
+  location = "Hamilton, Canada"
+  date_start = "2019-09-03"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
   * Led tutorials, marked assignments, held office hours, answered emails and invigilated exams for computer engineering course
   """
 
