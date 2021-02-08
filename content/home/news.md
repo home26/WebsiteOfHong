@@ -50,7 +50,7 @@ subtitle = ""
 * [2019/9]Awarded _Graduate Scholarship_.
 * [2019/9]Awarded _Tuition Scholarship_.
 * [2019/9]Awarded _Research Scholarship_.
-* [2019/6]Undergraduate thesis _The Design of Vehicle Detection System Based on Multiobjective Detection Model_ won _Outstanding Undergraduate Thesis_ prize.
+* [2019/6]Undergraduate thesis won _Outstanding Undergraduate Thesis_ prize.
 * [2018/8]Awarded _The Outstanding Intern Honour_ at China Mobile.
 * [2018/8]Won third award in _National College Students' Connected Smartest System Innovation Competition_ held by _Chinese Institute of Electronics_
 * [2018/6]Won _Undergraduate Science and Technology Innovation Scholarship_.
