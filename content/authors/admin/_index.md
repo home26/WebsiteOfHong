@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hong Li(Jeffery Lee)
+title: Hong Li
 
 # Username (this should match the folder name)
 authors:
