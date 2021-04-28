@@ -44,7 +44,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+* [2021/4]Received Chair’s Commendation for Three Minute Thesis Presentations from department of Electrical & Computer Engineering, McMaster University
 * [2020/8]Passed [AWS Certified DevOps Engineer-Professional](https://excellenthong.ca/publication/DevOps/) exam.
 * [2020/6]Passed [AWS Certified SysOps Administrator-Associate](https://excellenthong.ca/publication/SysOps/) exam.
 * [2019/9]Awarded _Graduate Scholarship_.
