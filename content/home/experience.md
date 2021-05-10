@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Assisted supervisor to carry out research and implement algorithms
+  * Converted the algorithms from papers into the practical and physical projects (mainly in C++ & MATLAB)
   """
   
 [[experience]]
@@ -55,5 +56,20 @@ date_format = "Jan 2006"
   
   * Assisted mentor to design and deploy Cloud & IoT based solutions
   * Followed up and improved deployed Cloud & IoT based solutions
+  """
+
+[[experience]]
+  title = "Assistant Photographer"
+  company = "Paris Lovers Media"
+  company_url = ""
+  location = "Fujian, China"
+  date_start = "2015-07-01"
+  date_end = "2015-08-31"
+  description = """
+  Responsibilities include:
+  
+  * Took and edited personal and pre-wedding photos
+  * Filmed and edited group event and wedding documentaries
+  * Acquired trainings on photography, photography lighting setup, film shooting and media editing
   """
 +++
